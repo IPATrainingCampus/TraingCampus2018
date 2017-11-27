@@ -11,4 +11,6 @@
 [计算机图形学的算法基础](https://book.douban.com/subject/1094414/)
 
 ## C#图解教程(第4版) ##
+简介：[C#图解教程(第4版)](https://www.cnblogs.com/china-pub/archive/2013/06/09/3129311.html)
+
 下载：[http://bestcbooks.com/B00DMS8OKA/](http://bestcbooks.com/B00DMS8OKA/)
