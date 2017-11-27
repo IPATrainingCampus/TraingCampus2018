@@ -20,7 +20,7 @@ HSW-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发以�
 
 - 如果没有Github账号的话自己申请一个Github账号（没听过Github？没关系，请搜索一下）
 - 从这个Repository fork出你自己的分支，这儿不讲Github使用的细节，网上材料很多。推荐[廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-- 推荐的书大家就download下来或者买本纸质的书，建议多读几遍，书不在多，能够读薄了才是自己的
+- 推荐的书大家就自己到网上download下来或者买本纸质的书，建议多读几遍，书不在多，能够读薄了才是自己的
 - 对于训练题，建议你在本地完成后上传到你自己的分支上，不仅只上传你的最终代码，也可以把你的思考，你的心路历程用markdown记录下来一起上传上去并与我们分享
 - 学习过程中有任何疑问，任何心得都可以发邮件与我们交流：[liangliang.pan@united-imaging.com](liangliang.pan@united-imaging.com), [wenqing.liu@united-imaging.com](wenqing.liu@united-imaging.com),[chunshan.yang@united-imaging.com](chunshan.yang@united-imaging.com)
 
@@ -28,7 +28,7 @@ HSW-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发以�
 
 除了如下推荐的几本书，网站[菜鸟教程](http://www.runoob.com/)对于快速入门一门语言也很有帮助。
 
-- Effective C++（第三版） 及 More Effective C++，Effective Modern C++
+- Effective C++（第三版）**必读** 及 Effective STL，More Effective C++，Effective Modern C++，
 - Procedural Elements of Computer Graphics (2E) 计算机图形学的算法基础
 - C#图解教程（第四版）
 
