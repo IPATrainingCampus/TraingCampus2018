@@ -1,4 +1,4 @@
-# TraingCampus2018 #
+# TrainingCampus2018 #
 
 首先欢迎各位即将入职UIH-HSW-IPA（Imaging Platform and Applications，影像平台及应用）部门的各位新同学。大联影的材料大家已经见得比较多了，这儿简单介绍一下IPA部门的工作内容及训练营的内容。
 
