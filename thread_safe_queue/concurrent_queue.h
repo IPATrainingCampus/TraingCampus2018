@@ -5,7 +5,7 @@ class ConcurrentQueue
 //private:
 
 public:
-    // push one element into the queue tail
+    // push one element into the queue from the back
     void Push(Data const& data);
 
     // judge whether the queue is empty
@@ -18,6 +18,6 @@ public:
 
     // wait for the queue to pop one element
     // if the queue is empty, wait till one element is pushed into the queue; 
-    // if the queue is not empty, pop the front element to the ouput parameter
+    // if the queue is not empty, pop the front element to the output parameter
     void WaitAndPop(Data& popped_value);
 };
