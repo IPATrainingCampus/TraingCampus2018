@@ -43,17 +43,19 @@ HSW-IPA负责医学可视化平台及临床常规应用、VR/AR技术研发以�
 
 **要求**
 
-- 用C++实现，可以使用C++ 11中的新特性
+- 用C++实现，对于线程，可以使用C++ 11中的新特性，也可以使用boost等通用库，或者直接使用Windows API
 - 实现已经定义的接口，接口列在TrainingCampus2018/thread_safe_queue/concurrent_queue.h中
 - 写一个可执行的程序测试实现的接口
 - 实现代码和测试代码都上传到TrainingCampus2018/thread_safe_queue文件夹中
+- 请正确完成工程设置（上传需要的动态链接库或静态链接库，以及正确设置路径），使得其他开发者获取代码后可以直接编译通过并正确运行
 
-### 训练题2：DICOM Image Viewer ###
+### 训练题2：DICOM Image Viewer（C#实现） ###
 
 **要求**
 
-- 实现一个GUI，推荐用C# WPF实现，也可用其他的UI库实现
+- 实现一个GUI，推荐用C# WPF实现，也可用其他的UI框架实现
 - 可以从本地载入DICOM文件并显示出来，起码可以打开提供的测试图像,测试图像在TrainingCampus2018/test_image
 - 可以将打开图像的Tag ID，VR及内容显示出来
 - 除了上述两个功能，其他的功能自由发挥，DICOM Viewer有什么其他功能可以参考TrainingCampus2018/simple_dicom_viewer/dicom_viewer.md
 - 可以使用第三方的DICOM解析库，具体使用哪个可以自己去选择
+- 请正确完成工程设置（上传需要的动态链接库或静态链接库，以及正确设置路径），使得其他开发者获取代码后可以直接编译通过并正确运行
